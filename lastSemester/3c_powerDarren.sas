@@ -1,0 +1,15 @@
+PROC POWER;
+	TWOSAMPLEMEANS
+	MEANDIFF = 3.5 4 4.5
+ 	STDEV = 8 8.5 9
+	POWER = 0.8
+	NTOTAL = .;
+	PLOT Y=POWER min=0.5 max=0.99;
+RUN;
+
+DATA quan;
+	quan = QUANTILE('T',0.99,48);
+RUN;
+
+PROC PRINT DATA=quan;
+RUN;
