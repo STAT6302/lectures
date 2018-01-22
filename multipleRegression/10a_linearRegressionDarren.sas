@@ -131,16 +131,3 @@ axis2 MINOR=none;
 PROC GPLOT DATA=fitted;
 	PLOT muHat*nBathrooms=zipcode / VAXIS=axis1 HAXIS=axis2;
 
-/* 
-  Testing groups of explanatory variables
-*/
-PROC GLM DATA = housing PLOTS=all;
-	CLASS zipCode (ref = '75224');
-	MODEL salePrice = sqFootage zipCode nBedrooms nBathrooms;
-RUN;
-
-PROC GLM DATA = housing PLOTS=all;
-	CLASS zipCode (ref = '75224');
-	MODEL salePrice = sqFootage zipCode nBedrooms nBathrooms 
-                          sqFootage*zipCode nBedrooms*zipCode nBathrooms*zipCode;
-RUN;
