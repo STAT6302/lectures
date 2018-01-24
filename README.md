@@ -6,12 +6,10 @@ This repository holds the lecture notes for the class. Be aware that I may updat
 I will try to keep this updated as to the notes/slides we cover
 for each day:
 
-Jan. 23: 
-
-*10a_linearRegressionDarren (Slides 1-20)
-
-Jan. 25: 10a_linearRegressionDarren (Slides 20-end)
-
-Jan. 30
-
-Feb. 02
+Date     | Slides
+---------|--------
+Jan. 23: | 10a_linearRegressionDarren (Slides 1-20)
+Jan. 25: | 10a_linearRegressionDarren (Slides 20-end)
+         | 10b_linearRegressionDarren (Slides 1-?)
+Jan. 30  |
+Feb. 02  |
