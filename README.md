@@ -10,5 +10,5 @@ Date     | Slides
 ---------|--------
 Jan. 23: | 10a_linearRegressionDarren (Slides 1-20)
 Jan. 25: | 10a_linearRegressionDarren (Slides 20-end), 10b_linearRegressionDarren (Slides 1-end)
-Jan. 30  | 
+Jan. 30  | 11a_linearRegressionDarren (slides 1-end), Quiz 1 
 Feb. 01  |
