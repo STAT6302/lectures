@@ -14,3 +14,14 @@ Jan. 25: | 10a_linearRegressionDarren (Slides 20-end), 10b_linearRegressionDarre
 Chap. 11 | [Read partial residuals, measurement error, delta method  on your own]
 Jan. 30  | 11a_linearRegressionDarren (slides 1-end), Quiz 1 
 Feb. 01  | In class exercise: 11b_linearRegressionDarren
+Feb. 06  |
+Feb. 08  |
+Feb. 10  |
+Feb. 13  |
+Feb. 15  |
+Feb. 20  |
+Feb. 22  |
+Feb. 27  |
+Mar. 01  |
+Mar. 06  |
+Mar. 08  | Midterm (location TBA)
