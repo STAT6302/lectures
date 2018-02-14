@@ -16,7 +16,7 @@ Jan. 30  | 11a_linearRegressionDarren (slides 1-end), Quiz 1
 Feb. 01  | In class exercise: 11b_linearRegressionDarren
 Feb. 06  | 12a_linearRegressionDarren (Slides: 1-20) Multicollinearity for estimation
 Feb. 08  | 12a_linearRegressionDarren (Slides: 20-37) Multicollinearity for prediction  & weighted regression
-Feb. 13  | 12a_linearRegressionDarren (Slides: 37-?) Nonlinear Regression.  Quiz 2
+Feb. 13  | 12a_linearRegressionDarren (Slides: 37-end) Nonlinear Regression.  Quiz 2
 Feb. 15  |
 Feb. 20  |
 Feb. 22  |
