@@ -17,10 +17,10 @@ Feb. 01  | In class exercise: 11b_linearRegressionDarren
 Feb. 06  | 12a_linearRegressionDarren (Slides: 1-20) Multicollinearity for estimation
 Feb. 08  | 12a_linearRegressionDarren (Slides: 20-37) Multicollinearity for prediction  & weighted regression
 Feb. 13  | 12a_linearRegressionDarren (Slides: 37-end) Nonlinear Regression.  Quiz 2
-Feb. 15  |
+Feb. 15  | 13a_multiwayAnovaDarren (Slides: 1 - end)
 Feb. 20  |
 Feb. 22  |
 Feb. 27  |
 Mar. 01  |
 Mar. 06  |
-Mar. 08  | Midterm (location TBA)
+Mar. 08  | Midterm (location: Probably Hyer Hall 0111.  Note that our classroom is reserved this day)
