@@ -14,11 +14,13 @@ Jan. 25: | 10a_linearRegressionDarren (Slides 20-end), 10b_linearRegressionDarre
 Chap. 11 | [Read partial residuals, measurement error, delta method  on your own]
 Jan. 30  | 11a_linearRegressionDarren (slides 1-end), Quiz 1 
 Feb. 01  | In class exercise: 11b_linearRegressionDarren
+Chap. 12 | [We won't be covering 12.3 to the end of the chapter in class.  The material is important, so read it if you haven't been exposed to it elsewhere]
 Feb. 06  | 12a_linearRegressionDarren (Slides: 1-20) Multicollinearity for estimation
 Feb. 08  | 12a_linearRegressionDarren (Slides: 20-37) Multicollinearity for prediction  & weighted regression
 Feb. 13  | 12a_linearRegressionDarren (Slides: 37-end) Nonlinear Regression.  Quiz 2
+Chap. 13 | [My notes give a somewhat different exposition on the subject, particularly the specific analysis of the case studies.  They are worth studying.]
 Feb. 15  | 13a_multiwayAnovaDarren (Slides: 1 - end)
-Feb. 20  |
+Feb. 20  | 13b_multiwayAnovaDarren (Slides: 1 - end)
 Feb. 22  |
 Feb. 27  |
 Mar. 01  |
