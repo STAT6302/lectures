@@ -26,3 +26,6 @@ Feb. 27  |
 Mar. 01  |
 Mar. 06  |
 Mar. 08  | Midterm (location: TBD.  Note that our classroom is reserved this day)
+
+... | 
+May 10  | Final exam at 9 am in usual classroom
