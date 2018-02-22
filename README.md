@@ -19,9 +19,9 @@ Feb. 06  | 12a_linearRegressionDarren (Slides: 1-20) Multicollinearity for estim
 Feb. 08  | 12a_linearRegressionDarren (Slides: 20-37) Multicollinearity for prediction  & weighted regression
 Feb. 13  | 12a_linearRegressionDarren (Slides: 37-end) Nonlinear Regression.  Quiz 2
 Chap. 13 | [My notes give a somewhat different exposition on the subject, particularly the specific analysis of the case studies.  They are worth studying.]
-Feb. 15  | 13a_multiwayAnovaDarren (Slides: 1 - end)
-Feb. 20  | 13b_multiwayAnovaDarren (Slides: 1 - end)
-Feb. 22  |
+Feb. 15  | 13a_multiwayAnovaDarren (Slides: 1 - end) Experimental design intro and crossed/factorial design
+Feb. 20  | 13b_multiwayAnovaDarren (Slides: 1 - end) Cross/Factorial Models: Example
+Feb. 22  | 13c_multiwayAnovaDarren (Slides: 1 - end) Nesting and Split Plot Designs
 Feb. 27  |
 Mar. 01  |
 Mar. 06  |
