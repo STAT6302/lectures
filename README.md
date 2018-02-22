@@ -25,4 +25,4 @@ Feb. 22  |
 Feb. 27  |
 Mar. 01  |
 Mar. 06  |
-Mar. 08  | Midterm (location: Probably Hyer Hall 0111.  Note that our classroom is reserved this day)
+Mar. 08  | Midterm (location: TBD.  Note that our classroom is reserved this day)
