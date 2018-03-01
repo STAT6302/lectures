@@ -28,6 +28,6 @@ Mar. 06  |
 Mar. 08  | Midterm (location: TBD.  Note that our classroom is reserved this day)
 Mar. 13  | Spring Break
 Mar. 15  | Spring Break
-Mar. 13  | 
-Mar. 13  | Class Canceled
+Mar. 20  | 
+Mar. 22  | Class Canceled
 May 10  | Final exam at 9 am in usual classroom
