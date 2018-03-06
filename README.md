@@ -24,10 +24,11 @@ Feb. 20  | 13b_multiwayAnovaDarren (Slides: 1 - end) Cross/Factorial Models: Exa
 Feb. 22  | 13c_multiwayAnovaDarren (Slides: 1 - end) Nesting and Split Plot Designs
 Feb. 27  | sumsOfSquares (Slides: 1- end).  We did an investigation in power and blocking (powerWithAndWithoutBlocking.R)
 Mar. 01  | We went over an in class exercise of analyzing the ceramics data (5_homeworkCeramic.sas)
-Mar. 06  |
-Mar. 08  | Midterm (location: TBD.  Note that our classroom is reserved this day)
+Mar. 06  | We had a two-part quiz and had a Q&A period in regards to the midterm.
+Mar. 08  | Midterm (location: Hyer 111.  Note that our classroom is reserved this day)
 Mar. 13  | Spring Break
 Mar. 15  | Spring Break
 Mar. 20  | 
 Mar. 22  | Class Canceled
+....
 May 10  | Final exam at 9 am in usual classroom
