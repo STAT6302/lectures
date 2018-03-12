@@ -28,7 +28,18 @@ Mar. 06  | We had a two-part quiz and had a Q&A period in regards to the midterm
 Mar. 08  | Midterm (location: Hyer 111.  Note that our classroom is reserved this day)
 Mar. 13  | Spring Break
 Mar. 15  | Spring Break
-Mar. 20  | 
+Mar. 20  | Multifactor w/o replication and random effects
 Mar. 22  | Class Canceled
-....
-May 10  | Final exam at 9 am in usual classroom
+Mar. 27  | Linear Mixed Effects Models
+Mar. 28  | Linear Mixed Effects Models
+Apr. 03  | Time Series
+Apr. 05  | Time Series
+Apr. 10  | Repeated Measures
+Apr. 12  | Intro to GLMs
+Apr. 17  | Logistic Regression
+Apr. 19  | Logistic Regression
+Apr. 24  | Principal Components Analysis
+Apr. 26  | Principal Components Analysis
+May  01  | Nonparametric Regression
+May  03  | Nonparametric Regression
+May  10  | Final exam at 9 am in usual classroom
