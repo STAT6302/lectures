@@ -105,3 +105,24 @@ PROC GLM DATA=example5 PLOTS=all;
 	CLASS weather fuel alloy;
 	MODEL height = weather fuel alloy fuel*alloy;
 RUN;
+
+
+/* example “equivalence law of statistics”.
+
+DATA height;
+	INPUT height gender $ @@;
+	DATALINES;
+	63 F 61 F 67 F 69 F 58 F 63.5 F 62 F 69 M 72 M 71 M 73.5 M 71 M 67 M 70 M
+	;
+
+PROC UNIVARIATE;
+	HISTOGRAM height;
+RUN;
+
+PROC SGPLOT;
+	VBOX height;
+RUN;
+
+PROC SGPLOT;
+	VBOX height / CATEGORY = gender;
+RUN;
