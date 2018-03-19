@@ -42,4 +42,4 @@ Apr. 24  | Principal Components Analysis
 Apr. 26  | Principal Components Analysis
 May  01  | Nonparametric Regression
 May  03  | Nonparametric Regression
-May  10  | Final exam at 9 am in usual classroom
+May  10  | Turn in final project
