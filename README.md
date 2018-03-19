@@ -31,7 +31,7 @@ Mar. 15  | Spring Break
 Mar. 20  | Multifactor w/o replication and random effects
 Mar. 22  | Class Canceled
 Mar. 27  | Linear Mixed Effects Models
-Mar. 28  | Linear Mixed Effects Models
+Mar. 29  | Linear Mixed Effects Models
 Apr. 03  | Time Series
 Apr. 05  | Time Series
 Apr. 10  | Repeated Measures
