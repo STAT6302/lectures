@@ -45,7 +45,7 @@ RUN;
 data out;
       SET out;
       SET log_gnp;
-      y   = exp( log_gnp );
+      gnp   = exp( log_gnp );
       l95 = exp( l95 );
       u95 = exp( u95 );
       forecast = exp( forecast + std*std/2 );
@@ -56,5 +56,6 @@ PROC SGPLOT DATA=out;
 	BAND UPPER=u95 LOWER=l95 X=DATE
       / LEGENDLABEL="95% Confidence Limits";
    SERIES X=DATE Y=forecast;
+   SCATTER X=DATE Y=gnp;
    XAXIS VALUEATTRS=(SIZE=2pt);
 RUN;
