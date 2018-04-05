@@ -31,7 +31,7 @@ Mar. 15  | Spring Break
 Mar. 20  | Multifactor w/o replication and random effects
 Mar. 22  | Class Canceled
 Mar. 27  | mixedEffects (slides 1 - ?).  Also we discussed the midterm and briefly this article: https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.gw7vmLoX9#.nnLarzLWP
-Mar. 29  | Linear Mixed Effects Models
+Mar. 29  | Linear Mixed Effects Models (references: see the files Gbur-etal.2012 and howardBook.  The "Gbur" book is about GLMM from an agricultural perspective, but it also covers Linear Mixed Models (LMM).  Howards book uses SPSS instead of SAS, but has some good examples)
 Apr. 03  | Time Series 1
 Apr. 05  | Time Series 2, Imputation, and Bayesian sampling
 Apr. 10  | Repeated Measures
