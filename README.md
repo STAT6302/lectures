@@ -38,8 +38,8 @@ Apr. 10  | Repeated Measures
 Apr. 12  | Intro to GLMs
 Apr. 17  | Logistic Regression
 Apr. 19  | Logistic Regression
-Apr. 24  | Principal Components Analysis
+Apr. 24  | Sick/class cancelled
 Apr. 26  | Principal Components Analysis
-May  01  | Nonparametric Regression
+May  01  | Principal Components Analysis
 May  03  | Nonparametric Regression
 May  10  | Turn in final project
